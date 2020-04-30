@@ -27,30 +27,17 @@ intro:
    Located in a 1930’s historic building that formerly was a grocery store, Cow & Quince offers a farm-to-table experience in a casual atmosphere. We prepare many staples of our menu onsite including sauces, smoked meat, jams, desserts, and fermented delicacies.
     - image: /img/coffee-gear.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
+Cow & Quince sources ingredients from local farms that utilize organic, sustainable practices. We strive to provide fresh ingredients and a seasonal menu. Be sure to check out our daily specials that take advantage of what is currently in season.
+    - image: /img/icecream.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
+        A great way to put up the seasonal harvests is adding it to ice cream. Come in and suggest a unique combination from Wisconsin fruits and herbs. Eat in or take a pint home.
+    - image: /img/hazzardGrains.png
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        Our market features many of the quality ingredients we use in our Cow & Quince kitchens. You will find locally grown herbs, teas, locally milled flours as well as honey, canned produce and other value-added products from local farmers and producers.
   heading: What we offer
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    
+We feature locally produced cheese, in addition to cheeses made in the Cow & Quince kitchen. We also carry goat and sheep cheeses of all varieties.
 main:
   heading: Great coffee with no compromises
   description: >
